@@ -35,7 +35,6 @@ body {
 	color: #000000;
 	font-size: 28px;
 	line-height: 1;
-
 }
 
 .logo span {
@@ -43,16 +42,14 @@ body {
 }
 
 .nav {
-margin: 0;
-padding: 0;
-list-style: none;
-display: flex;
-
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	display: flex;
 }
 
 .nav_item {
 	margin-right: 50px;
-
 }
 
 .nav_item:last-child {
