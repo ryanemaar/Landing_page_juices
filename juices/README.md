@@ -1,2 +1,2 @@
-# Landing_pages
-Storage for my landing pages. 
+# Juices
+Landing page for product.
