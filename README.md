@@ -1,2 +1,2 @@
-Landing page for juice company
+Landing page for juice company using Html&CSS.
 
